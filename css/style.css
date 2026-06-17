@@ -49,3 +49,15 @@ ul.top-level-list:hover {
 .card:hover {
     background-color: gold;
 }
+
+h1::first-letter {
+    color: gold;
+}
+
+h3.comments-title::first-letter {
+    font-size: 60px;
+}
+
+/* h3::first-letter {
+    font-size: 60px;
+} */
