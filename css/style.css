@@ -13,7 +13,7 @@ h1 {
 }
 
 .card {
-    width: 300px;
+    width: 30vw;
     padding: 30px;
     border: 10px solid black;
     background-color: lightblue;
@@ -61,3 +61,31 @@ h3.comments-title::first-letter {
 /* h3::first-letter {
     font-size: 60px;
 } */
+
+.top-level-list > li {
+    border: solid 1px orange;
+}
+
+/* div + div {
+    color: green;
+} */
+
+/* div {
+    font-size: 20px;
+}
+
+div p {
+    font-size: 2em;
+} */
+
+/* html {
+    font-size: 16px;
+} */
+
+h1 {
+    font-size: 3rem;
+}
+
+article {
+    min-height: 100vh;
+}
