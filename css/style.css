@@ -36,3 +36,7 @@ input:focus {
 a:hover {
     color:red;
 }
+
+ul.top-level-list:hover {
+    cursor: pointer;
+}
