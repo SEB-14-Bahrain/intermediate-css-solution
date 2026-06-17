@@ -19,7 +19,20 @@ h1 {
     background-color: lightblue;
 }
 
+/* this is a hover effect */
+.card:hover {
+    background-color: gold;
+}
+
 .fixed {
     box-sizing: border-box;
 }
 
+input:focus {
+    border: 3px solid pink;
+    background-color: deeppink;
+}
+
+a:hover {
+    color:red;
+}
